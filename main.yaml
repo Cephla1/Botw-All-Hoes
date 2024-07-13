@@ -1,0 +1,135 @@
+- Great Plateau:
+  - SOR clip:
+      icon: sor
+      coord: [-1124.96, 238.47, 1903.14]
+      notes: Don't activate ToD
+  - Run to Boko Camp:
+      coord: [-964.50, 238.84, 1953.28]
+  - Collect food:
+      coord: [-964.50, 238.84, 1953.28]
+      icon: item
+      notes: I choose to get everything and this usually sees me through
+  - Pot Lid:
+      coord: [-952.34, 238.33, 1959.44]
+      icon: shield
+  - Spear:
+      coord: [-944.59, 238.76, 1954.08]
+      icon: weapon
+  - Run and surf to ToT:
+      coord: [-887.25,1989.5080869073454]
+  - "Traveler's Bow":
+      coord: [-832.43, 222.00, 1963.11]
+      notes: Clip in
+      icon: chest
+  - 5x Arrow:
+      coord: [-821.73, 221.98, 1963.27]
+      comment: Break pot
+      icon: bow
+  - BLSS and clip in:
+      coord: [-449.48, 163.04, 1990.06]
+  - _Shrine::JaBaij
+  - Old Man:
+      coord: [-449.48, 163.04, 1990.06]
+      comment: Text options 2-1-1-2
+      icon: oldman
+  - _Shrine::OmanAu
+  - Ice arrows:
+      coord: [-775.94, 174.80, 1561.83]
+      comment: Left chest. Optional blss with metal box at mag
+      icon: bow
+  - _Korok::P02
+  - _Korok::P01
+  - _Korok::P18:
+      movements:
+        - [-640,1696.0108213656122]
+        - [-683,1978.8496399725464]
+        - _Korok::P18
+      comment: Grab stamella shrooms too
+  - _Shrine::OwaDaim
+  - Boulder -> BLSS:
+      coord: [-1437.27, 316.69, 1995.57]
+  - _Shrine::KehNamut
+  - BLSS:
+      coord: [-809.33, 263.58, 1964.35]
+  - Paraglider:
+      coord: [-809.33, 263.58, 1964.35]
+      icon: oldman
+- Hestu 1:
+  - Bridge Hoes:
+      coord: [2800.19, 149.34, 1809.90]
+      comment: Shoot both with ice arrows. Disarm with single spear hits
+      counter: .counter-hoe(2/11)
+      icon: misc
+  - Fhoerest 1:
+      coord: [3090.27, 163.93, 2164.30]
+      comment: N Turn WB (+ midair). Attack with hoe
+      icon: misc
+      counter: .counter-hoe(3/11)
+  - Fhoerest 2:
+      coord: [3160.77, 173.38, 2058.53]
+      icon: misc
+      counter: .counter-hoe(4/11)
+  - Fhoerest 3:
+      coord: [3229.82, 186.68, 2085.01]
+      icon: misc
+      counter: .counter-hoe(5/11)
+  - Hoeteno 1:
+      coord: [3320.17, 217.59, 2103.07]
+      comment: On the side of the first house from the entrance on a wooden shelter
+      icon: misc
+      counter: .counter-hoe(6/11)
+  - Hoeteno 2:
+      coord: [3416.33, 239.46, 2081.13]
+      comment: In the shed of the mayor's house. on the right side next to the door as you walk in
+      icon: misc
+      counter: .counter-hoe(7/11)
+  - Lab Hoe:
+      coord: [3783.52, 358.11, 2129.76]
+      comment: WB chain up to lab. Hoe is next to the back door
+      icon: misc
+      counter: .counter-hoe(8/11)
+  - Maracas:
+      coord: [2172.24, 218.76, 1369.20]
+      icon: chest
+      comment: I choose to shoot each boko with ice arrows and push them off. There are other better methods
+  - Hestu:
+      coord: [2069.45, 188.17, 1422.25]
+      icon: hestu
+      comment: Exchange seeds for two weapon 
+      counter: .counter-korok(0)
+- All the Hoes:
+  - _Korok::D08:
+      movements:
+        - [2093.5,1410.582568855889]
+        - [2077,1203.9248199862732]
+        - _Korok::D08
+      counter: .counter-korok(1)
+      comment: N Height from rock + E midair
+  - _Korok::D06:
+      counter: .counter-korok(2)
+  - Kakarikhoe:
+     coord: [1911.69, 234.77, 1003.68]
+     icon: misc
+     comment: Under shelter with cucco on top
+     counter: .counter-hoe(9/11)
+  - BLSS from Kak stump:
+     coord: [1870.75,815.448028967784]
+  - Sathoeri:
+     coord: [-1947.50, 331.16, 360.30]
+     comment: There are 3 distinct trees on the left end of the forest. It spawns on the middle one
+     icon: misc
+     counter: .counter-hoe(10/11)
+  - _Korok::R55:
+     counter: .counter-korok(3)
+  - Hestu 2:
+     coord: [387.88, 121.72, 1038.40]
+     comment: BLSS with rock. Exchange for extra weapon slot
+     icon: hestu
+     counter: .counter-korok(0)
+  - Bhoesh Kala:
+     coord: [38.10, 117.43, 1620.32]
+     icon: misc
+     comment: To the right of Bosh Kala
+     counter: .counter-hoe(11/11)
+      
+  
